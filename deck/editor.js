@@ -1,0 +1,2 @@
+//deck editor
+module.exports = ()

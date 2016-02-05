@@ -1,0 +1,19 @@
+{
+  "name": "YGO",
+  "version": "0.0.1",
+  "description": "ygo js",
+  "bugs": {
+    "email": "shynome@gmail.com"
+  },
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot",
+    "start": "node --harmony server"
+  },
+  "main": "./server.js",
+  "people fields": "shynome",
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "socket.io": "^1.4.5",
+    "vue": "^1.0.16"
+  }
+}
